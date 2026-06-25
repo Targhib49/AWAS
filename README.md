@@ -30,3 +30,5 @@ python -m pytest -v                    # run tests
 
 See `AWAS_State_Machine_Design.md`, `AWAS_Conversational_AI_Architecture.md`,
 and `AWAS_Implementation_Details.md` (in `docs/` or repo root) for design.
+
+credit: Targhib and Fachry
